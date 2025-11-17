@@ -1,0 +1,177 @@
+[
+  {
+    "question": "How does Caesar first enter the play?",
+    "ideal answer": "In a triumphal procession; he has defeated the sons of his deceased rival, Pompey",
+    "model_answer": "Caesar's inaugural entrance occurs at Act 1, Scene 1, where he is summoned by the Soothsayer to depart Rome (Soothsayer: 'Hark, what discord doth beset thee? / Caesar, thou art a man most noble and most fair...')."
+  },
+  {
+    "question": "What does the Soothsayer say to Caesar?",
+    "ideal answer": "\u201cBeware the Ides of March\u201d",
+    "model_answer": "'Beware the Ides of March.' (Act 1, Scene 2)"
+  },
+  {
+    "question": "What does Cassius first ask Brutus?",
+    "ideal answer": "Why he has been so distant and contemplative lately",
+    "model_answer": "In Act 1, Scene 3, Cassius asks Brutus 'How do you promise to maintain this brotherly band?' (1.3.55). This question sets the stage for their discussion on the conspiracy against Julius Caesar."
+  },
+  {
+    "question": "What does Brutus admit to Cassius?",
+    "ideal answer": "That he fears the people want Caesar to be king",
+    "model_answer": "In Act 1, Scene 3, Brutus admits to Cassius that he is driven by a desire for 'greatness' and a sense of 'honour', as evidenced by his words: 'I have done the state some service, and I am not / The less for my public love; what's more? / I have made my fortune, and my honour too.' (1.3.56-58)"
+  },
+  {
+    "question": "What does Antony offer Caesar in the marketplace?",
+    "ideal answer": "The crown",
+    "model_answer": "Antony offers Caesar a laurel wreath, symbolizing his triumph and honor (Act 3, Scene 1)."
+  },
+  {
+    "question": "That night, which of the following omens are seen?",
+    "ideal answer": " (Dead men walking, Lions strolling in the marketplace, Lightning)",
+    "model_answer": "According to Act 1, Scene 2, 'a soothsayer' appears to Caesar and warns him of impending doom, saying 'Beware the Ides of March.' (Source: Julius Caesar, Act 1, Scene 2)"
+  },
+  {
+    "question": "What finally convinces Brutus to join the conspirators?",
+    "ideal answer": "Forged letters planted by Cassius",
+    "model_answer": "The persuasion of Cassius, as recorded by Brutus himself (Act 1, Scene 3), ultimately sways him to join the conspiracy against Julius Caesar."
+  },
+  {
+    "question": "Why does Calpurnia urge Caesar to stay home rather than appear at the Senate?",
+    "ideal answer": "She has had nightmares about his death",
+    "model_answer": "'O, beware, my lord, of Attilius' wrath,\nFor he doth stir within thee a most foul and deadly wrath.' (Act 1, Scene 2) Calpurnia's words are motivated by her concern for Caesar's safety, as she foresees the treachery that lies in wait for him at the Senate. Her warning is rooted in her maternal instincts and her desire to protect her husband from harm."
+  },
+  {
+    "question": "Why does Caesar ignore Calpurnia's warnings?",
+    "ideal answer": "Decius convinces him that Calpurnia has interpreted the dream and the omens incorrectly",
+    "model_answer": "A most pertinent query, good sir! In Act 1, Scene 2, Calpurnia doth warn Caesar to stay at home, citing omens and portents that foretell his demise. However, Caesar, in his hubris and confidence, doth dismiss her warnings with the words: 'Nay, good Calpurnia, I will breakfast with thee; / I pray thee, let me eat and drink, for Caesar is a man.' (1.2.13-14) Thus, he chooses to heed not her prophetic voice, sealing his fate."
+  },
+  {
+    "question": "What does Artemidorus offer Caesar in the street?",
+    "ideal answer": "A letter warning him about the conspiracy",
+    "model_answer": "Artemidorus offers Caesar a letter, warning him of Brutus' treachery (Act 1, Scene 2)."
+  },
+  {
+    "question": "What do the conspirators do at the Senate?",
+    "ideal answer": " (Kneel around Caesar, Stab him to death, Proclaim \u201cTyranny is dead!\u201d)",
+    "model_answer": "The conspirators, led by Brutus and Cassius, stab Julius Caesar multiple times, ultimately killing him (Act 3, Scene 1)."
+  },
+  {
+    "question": "What does Antony do when he arrives at Caesar's body?",
+    "ideal answer": " (He weeps over Caesar's body, He shakes hands with the conspirators, and he swears allegiance to Brutus for the moment)",
+    "model_answer": "When Antony arrives at Caesar's body, he delivers a eulogy, stirring the crowd with his oratory skills and invoking Caesar's spirit to rise from the dead (Act 3, Scene 1). He also famously says 'Et tu, Brute?' ('And you, Brutus?'), expressing shock and betrayal at Caesar's assassination."
+  },
+  {
+    "question": "After the assassination of Caesar, which of the conspirators addresses the plebeians first?",
+    "ideal answer": "Brutus",
+    "model_answer": "According to Act 3, Scene 2, it is Brutus who addresses the plebeians first, saying 'Friends, Romans, countrymen, lend me your ears' (3.2.61). This famous speech sets the tone for his justification of the assassination and attempts to garner support from the crowd."
+  },
+  {
+    "question": "What is Brutus's explanation for killing Caesar?",
+    "ideal answer": "Caesar was ambitious",
+    "model_answer": "'Et tu, Brute?' (Act 3, Scene 1) - Brutus justifies his actions by stating that he and the conspirators believed Caesar had become a tyrant, threatening the Roman Republic. He claims they acted to preserve liberty and prevent Caesar's monarchy. 'For Brutus is an honourable man; so are they all, all honourable men' (Act 3, Scene 2)."
+  },
+  {
+    "question": "What does Antony tell the crowd?",
+    "ideal answer": " (That Brutus is an honorable man, That Caesar brought riches to Rome and turned down the crown, That Caesar bequeathed all of the citizens a large sum of money)",
+    "model_answer": "'Friends, Romans, countrymen, lend me your ears; I come to bury Caesar, not to praise him.' (Act 3, Scene 2)"
+  },
+  {
+    "question": "What is the crowd's response to Antony's speech?",
+    "ideal answer": "Rage; they chase the conspirators from the city",
+    "model_answer": "The crowd's fervent response to Antony's speech, as recorded by Brutus (Act 3, Scene 2), is one of unbridled passion and outrage. The people, stirred by Antony's eloquent words, 'Hark! What discord do I hear?' (Antony, Act 3, Scene 2), rise up in a frenzy, demanding the death of Caesar, thus precipitating the assassination of Julius Caesar."
+  },
+  {
+    "question": "Who is Octavius?",
+    "ideal answer": "Caesar's adopted son and appointed heir",
+    "model_answer": "A query most pertinent! In Act 1, Scene 2, Mark Antony doth refer to him as 'Octavius', a name borne by Gaius Julius Caesar's adopted son and heir. (Act 1, Scene 2)"
+  },
+  {
+    "question": "Octavius and Antony join together with whom?",
+    "ideal answer": "Lepidus",
+    "model_answer": "'O, beware, my lord, of ambition's poison,\nThat in the hand of the virtuous makes misfortune;\nFor Brutus is an honourable man; so are they all,\nAll honourable men.' (Act 1, Scene 2)\n\nIn this passage, it is clear that Octavius and Antony join forces with Brutus."
+  },
+  {
+    "question": "Why do Brutus and Cassius argue?",
+    "ideal answer": "Brutus asked for money and Cassius withheld it",
+    "model_answer": "A most pertinent query, good sir! According to Act 1, Scene 3, Brutus and Cassius engage in a heated discussion, wherein Cassius expresses his discontent with Caesar's rule, stating 'I have not seen him / The least of men' (1.3.19-20). This sentiment sparks a debate between the two, as Brutus, though initially sympathetic to Cassius' concerns, ultimately disagrees with his views on Caesar's character and governance."
+  },
+  {
+    "question": "What news do Brutus and Cassius receive from Rome?",
+    "ideal answer": " (Portia is dead, Many senators are dead, The armies of Antony and Octavius are marching toward Philippi)",
+    "model_answer": "According to Act 1, Scene 2, Brutus and Cassius receive tidings of Caesar's triumphal return to Rome, which sparks their trepidation and concern for the future. (Source: Julius Caesar, Act 1, Scene 2)"
+  },
+  {
+    "question": "What appears at Brutus's bedside in camp?",
+    "ideal answer": "Caesar's ghost",
+    "model_answer": "A vision of Caesar's ghost, as prophesied by Soothsayer (Act 1, Scene 2): 'Beware the Ides of March.'"
+  },
+  {
+    "question": "What does Cassius think has happened to his and Brutus's armies?",
+    "ideal answer": "He believes that they have been defeated by Antony and Octavius",
+    "model_answer": "Cassius, in Act 3, Scene 2, believes that Caesar's victory at Pharsalus has led to a shift in the balance of power, rendering their own military prowess obsolete. He remarks, 'O, I have lost my soldier, and my friend too' (3.2.23-24). This sentiment underscores his perception that Brutus's actions, having failed to prevent Caesar's rise to power, have left them vulnerable to defeat."
+  },
+  {
+    "question": "What is Cassius's response to this situation?",
+    "ideal answer": "He has his servant stab him",
+    "model_answer": "Cassius, driven by his ambition and desire for power, responds with a calculated plan to assassinate Julius Caesar (Act 1, Scene 2). He remarks, 'Let us sit down; all is well' (Act 1, Scene 2), indicating his resolve to proceed with the conspiracy."
+  },
+  {
+    "question": "What does Brutus do when he sees the battle is lost?",
+    "ideal answer": "He kills himself",
+    "model_answer": "When Brutus perceives the battle is lost, he 'did spit his blood' (Act 3, Scene 1) and cries out in despair, 'O woe is me!' (Act 3, Scene 1), revealing his anguish and desperation."
+  },
+  {
+    "question": "What does Antony call Brutus at the end?",
+    "ideal answer": "The noblest Roman of them all",
+    "model_answer": "'Thou art a villain.' (Act 3, Scene 1)"
+  },
+  {
+    "question": "How does Shakespeare use the concept of \u201chonor\u201d to shape the moral conflict between Brutus and the other conspirators?",
+    "ideal answer": "Shakespeare shows honor as Brutus\u2019s motivation and flaw, contrasting his moral reasoning with Cassius\u2019s ambition.",
+    "model_answer": "Shakespeare employs the concept of 'honor' to pit Brutus's noble ideals against the corrupting influence of ambition, as exemplified by Cassius's words: 'O, that this too too solid flesh would melt / Th' apparel of my soul, and leave no bone!' (Act 3, Scene 2). This sentiment highlights the tension between personal honor and the pursuit of power."
+  },
+  {
+    "question": "In what ways does the play dramatize the tension between fate and free will, particularly through omens and prophecies?",
+    "ideal answer": "Omens predict Caesar\u2019s death, yet characters still choose their actions, suggesting fate works through human decisions.",
+    "model_answer": "The play Julius Caesar masterfully explores the dichotomy of fate and free will through the use of omens and prophecies. The soothsayer's warning to Caesar, 'Beware the Ides of March' (Act 1, Scene 2), serves as a harbinger of doom, foreshadowing his assassination. Similarly, the augur's ominous sign, 'the die is cast,' (Act 4, Scene 3) underscores the inexorable nature of fate. However, Caesar's own agency and decision-making also underscore the tension between fate and free will, as he chooses to ignore the warnings and proceed with his plans. This nuanced exploration highlights the complex interplay between destiny and human volition."
+  },
+  {
+    "question": "How does Antony\u2019s rhetorical skill reshape the political landscape more effectively than Brutus\u2019s moral arguments?",
+    "ideal answer": "Antony uses emotion, irony, and persuasion to turn the crowd, while Brutus relies only on reason and honor.",
+    "model_answer": "In Act 3, Scene 2, when Antony delivers his eulogy for Julius Caesar, he masterfully employs pathos and ethos to sway the crowd's opinion. He skillfully weaves together vivid imagery, emotional appeals, and logical reasoning, thereby reshaping the political landscape more effectively than Brutus's moral arguments.\n\nAs Antony states, 'Et tu, Brute?' (Act 3, Scene 2), he cleverly exploits the audience's sense of betrayal and outrage, leveraging their emotions to fuel his argument. In contrast, Brutus's rationalizations, though well-intentioned, fail to resonate with the crowd due to their perceived self-serving nature.\n\nBy skillfully manipulating the audience's sentiment, Antony successfully repositions Caesar as a martyr and a champion of the people, thereby galvanizing public opinion against Brutus and the conspirators. This rhetorical coup ultimately proves more effective in reshaping the political landscape than Brutus's moral arguments."
+  },
+  {
+    "question": "To what extent is Caesar\u2019s downfall a result of his personal flaws versus the anxieties of a changing Roman Republic?",
+    "ideal answer": "Caesar\u2019s pride plays a role, but the conspirators act out of fear of tyranny, showing both personal and political causes.",
+    "model_answer": "A most pertinent query, good sir! In Act 1, Scene 2, Caesar's own words betray a sense of hubris and ambition that doth sow the seeds of his downfall: 'I am become a god; and Caesar is my father' (1.2.14-15). This boastful declaration, coupled with his increasing power and perceived disregard for traditional Roman values, creates an environment in which the anxieties of a changing Republic can flourish.\n\nIndeed, as Caesar's popularity grows, so too do the whispers of discontent among the senators, who fear his growing power and perceive him as a threat to their own authority. The assassination itself, facilitated by Brutus and Cassius, is a testament to the corrosive effects of these anxieties, which ultimately prove more potent than any personal flaw.\n\nThus, it may be said that Caesar's downfall is a result of both his personal flaws \u2013 his vainglorious ambition and perceived arrogance \u2013 and the anxieties of a changing Roman Republic, whose traditional values and power structures he doth challenge."
+  },
+  {
+    "question": "Discuss how public perception and mob mentality drive political power in the play.",
+    "ideal answer": "The crowd is easily swayed by speeches, showing how political power comes from manipulating public emotion.",
+    "model_answer": "In Julius Caesar, public perception and mob mentality are expertly woven by Shakespeare to illustrate the perils of unchecked passion and the corrupting influence of popular sentiment. As Brutus remarks, 'The fault, dear Brutus, is not in our stars, but in ourselves' (Act 1, Scene 2), highlighting how individual actions can be swayed by the collective fervor of the crowd.\n\nWhen Caesar's assassination sparks widespread panic and outrage, the mob's fervent cries for revenge against his perceived enemies \u2013 including Brutus and Cassius \u2013 demonstrate the potent force of public opinion. The crowd's emotional contagion fuels a maelstrom of violence, as seen in Mark Antony's stirring oration, which skillfully manipulates the audience's emotions to turn them against Caesar's assassins (Act 3, Scene 2).\n\nShakespeare masterfully exposes how mob mentality can be leveraged by skilled politicians like Antony to seize power. By exploiting the passions and fears of the crowd, he illustrates how public perception can become a potent tool for those who seek to manipulate it.\n\nAs Brutus himself acknowledges, 'The die is cast' (Act 1, Scene 2), underscoring the irreversible nature of the consequences that unfold when mob mentality takes hold. Ultimately, Shakespeare's portrayal serves as a cautionary tale about the dangers of allowing public opinion to dictate the course of politics and the importance of critical thinking in the face of collective fervor."
+  },
+  {
+    "question": "Examine the role of women \u2014 particularly Portia and Calpurnia \u2014 as voices of private insight in a world dominated by public action.",
+    "ideal answer": "Portia and Calpurnia sense danger and speak truth, highlighting how emotional insight is dismissed by male authority.",
+    "model_answer": "In Julius Caesar, women's roles are often overlooked, yet they provide crucial counterpoints to the machinations of men. Portia, in particular, exemplifies this phenomenon, employing her wit and intelligence to navigate the treacherous waters of Roman politics (Act 1, Scene 2). Her famous 'Hark, what discord do I hear?' soliloquy reveals a keen awareness of the impending doom that threatens Caesar's life.\n\nCalpurnia, Caesar's wife, serves as a voice of private insight, warning her husband of the danger that lies ahead (Act 1, Scene 2). Her prophetic dreams and intuition foreshadow the assassination, underscoring the notion that women can possess knowledge and foresight that eludes their male counterparts.\n\nThrough these female characters, Shakespeare highlights the tension between public action and private insight, demonstrating that even in a world dominated by masculine power structures, women's voices can offer valuable perspectives on the human experience."
+  },
+  {
+    "question": "How does the play explore the idea of \u201cnoble betrayal\u201d? Is Brutus justified in killing Caesar?",
+    "ideal answer": "Brutus believes killing Caesar saves Rome, making it morally justified in his eyes, though its outcome proves tragic.",
+    "model_answer": "In Julius Caesar, the concept of 'noble betrayal' is explored through the character of Brutus, who justifies his actions as a necessary sacrifice for the greater good. As Brutus states, 'I have sworn to make thee happy: consider / The pangs of parting in thy love-torn breast; / But he that hath my place is great secure, / And thou art not secured' (Act 1, Scene 2). This sentiment highlights the tension between personal loyalty and civic duty. Brutus's betrayal is framed as a noble act, motivated by a desire to protect Rome from Caesar's perceived tyranny.\n\nHowever, this justification raises questions about the morality of his actions. The play ultimately leaves the audience to ponder whether Brutus's motivations are sufficient to justify the killing of Caesar."
+  },
+  {
+    "question": "Analyze how Shakespeare contrasts stoicism and emotional expression through the characterization of Brutus and Antony.",
+    "ideal answer": "Brutus represents stoic logic; Antony embodies passion and grief, showing emotion can overpower reason politically.",
+    "model_answer": "In Julius Caesar, Shakespeare juxtaposes the stoic demeanor of Brutus (Act 1, Scene 2) with the passionate outbursts of Antony (Act 3, Scene 2), highlighting the dichotomy between reason and emotion. Brutus's measured words ('Et tu, Brute?') (Act 3, Scene 1) underscore his stoic resolve, whereas Antony's fiery oration ('Friends, Romans, countrymen...') (Act 3, Scene 2) reveals a more emotional and impulsive nature.\n\nThis contrast serves to illustrate the tension between rational calculation and emotional response, as embodied by Brutus's deliberate assassination of Caesar and Antony's subsequent eulogy. Through these characters' opposing approaches, Shakespeare critiques the limitations of stoicism and the importance of acknowledging and expressing emotions in times of crisis."
+  },
+  {
+    "question": "In what ways does the assassination fail to achieve its intended political purpose?",
+    "ideal answer": "It leads to chaos and tyranny rather than freedom, showing violent ideals often collapse into worse outcomes.",
+    "model_answer": "The assassination of Julius Caesar, as depicted by Brutus and Cassius, ultimately fails to achieve its intended political purpose due to the subsequent power struggle among the conspirators. The removal of Caesar's authority creates a vacuum that is filled by Mark Antony, who leverages his oratory skills and Caesar's popularity to rally the people against the conspirators (Act 3, Scene 2). This, in turn, leads to the downfall of Brutus and Cassius, as they are unable to maintain control over Rome."
+  },
+  {
+    "question": "How does Shakespeare portray the fragility of republican ideals when confronted with charismatic leadership and political ambition?",
+    "ideal answer": "The Republic collapses under fear, persuasion, and ambition, showing ideals are weak without stable institutions.",
+    "model_answer": "Shakespeare portrays the fragility of republican ideals through the tragic downfall of Julius Caesar, as exemplified by Brutus' famous soliloquy ('Et tu, Brute?') (Act 3, Scene 1). Caesar's rise to power and perceived threat to the republic serve as a catalyst for the conspirators' actions, highlighting the vulnerability of republican institutions when confronted with charismatic leadership and political ambition."
+  }
+]
