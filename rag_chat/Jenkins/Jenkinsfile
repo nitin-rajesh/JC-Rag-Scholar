@@ -1,0 +1,37 @@
+pipeline {
+    agent any
+    environment {
+        DOCKERHUB_USERNAME = 'nitinrajesh'
+    }
+    stages {
+        stage('Check prereqs') {
+            steps {
+                sh 'docker version'
+                sh 'docker ps'
+            }
+        }
+        stage('Checkout') {
+            steps {
+                git branch: 'main',
+                    url: 'https://github.com/nitin-rajesh/rag-chatbot'
+            }
+        }
+
+        stage('Build Docker Image') {
+            steps {
+                sh 'docker build --no-cache -t rag-chatbot .'
+                sh 'docker images'
+            }
+        }
+        stage('Push Docker Image') {
+            steps {
+                script {
+                    sh "docker tag rag-chatbot:latest ${DOCKERHUB_USERNAME}/rag-chatbot:latest"
+                    sh "docker push ${DOCKERHUB_USERNAME}/rag-chatbot:latest"
+                }
+            }
+        }
+
+
+    }
+}

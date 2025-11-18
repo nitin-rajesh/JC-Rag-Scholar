@@ -1,0 +1,23 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Checkout') {
+            steps {
+                git branch: 'main',
+                    url: 'https://github.com/nitin-rajesh/rag-chatbot'
+            }
+        }
+
+        stage('Run Ansible') {
+            steps {
+                sh '''
+                    cd K8s/
+                '''
+                sh '''
+                    ansible-playbook -i inventory.ini ansbl-deploy-k8s.yml
+                '''
+            }
+        }
+    }
+}

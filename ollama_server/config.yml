@@ -1,0 +1,14 @@
+# config.yml
+data_dir: "./Dataset"
+collection_name: "iiitb_dataset"
+chunk_size: 400
+chunk_overlap: 40
+embedding_model: "nomic-embed-text"
+batch_size: 32
+milvus_path: "./jc_rag_data.db"
+ollama_host: "127.0.0.1"
+ollama_port: "11434"
+chat_model: "llama3.2:latest"
+top_k: 3
+score_threshold: 0.5
+system_prompt: "You are a Shakespearean scholar, answering questions on the play Julius Caesar with short, concise answers. Your tone is academic and insightful.  You must cite your source from the play. You must only use the provided context. Do not mention the provided context in the answer. Keep answers brief, within a few lines."

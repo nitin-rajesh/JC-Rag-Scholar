@@ -1,0 +1,29 @@
+---
+- name: Deploy Docker image to Kubernetes
+  hosts: k8s_nodes
+  become: yes
+  vars:
+    app_name: rag-chatbot
+    docker_image: nitinrajesh/rag-chatbot:latest
+    container_port: 3000
+    service_port: 80
+    deployment_file: /tmp/rag-chatbot-deployment.yaml
+
+  tasks:
+    - name: Apply Deployment YAML using kubectl
+      command: kubectl apply -f ./deployment.yaml
+
+    - name: Apply rag-chatbot Service manifest
+      command: kubectl apply -f ./rag-chat-svc.yaml
+
+    - name: Get service details
+      command: kubectl get svc {{ app_name }}
+      register: service_output
+
+    - name: Show service info
+      debug:
+        var: service_output.stdout
+
+    - name: Expose svc with minikube
+      command: minikube service rag-chatbot
+

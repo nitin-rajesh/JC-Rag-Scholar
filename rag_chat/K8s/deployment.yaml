@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: rag-chatbot
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: rag-chatbot
+  template:
+    metadata:
+      labels:
+        app: rag-chatbot
+    spec:
+      containers:
+        - name: rag-chatbot
+          image: nitinrajesh/rag-chatbot:latest
+          ports:
+            - containerPort: 3000  # Change to your app's port
