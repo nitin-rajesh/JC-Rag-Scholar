@@ -65,8 +65,8 @@ async def ask_question(request: QueryRequest) -> str:
         )
         # print(response.json())
         llm_rsp = {}
-        llm_rsp['answer'] = response.json()['response']
-        llm_rsp['context'] = context
+        llm_rsp['answer'] = response.json()['response'].replace("\"","'")
+        llm_rsp['context'] = context.replace("\"","'")
         return jsd(llm_rsp)
         
     except Exception as e:

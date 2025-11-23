@@ -1,8 +1,8 @@
 # config.yml
 data_dir: "./Dataset"
 collection_name: "iiitb_dataset"
-chunk_size: 400
-chunk_overlap: 40
+chunk_size: 2000
+chunk_overlap: 100
 embedding_model: "nomic-embed-text"
 batch_size: 32
 milvus_path: "./jc_rag_data.db"

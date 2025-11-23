@@ -36,13 +36,12 @@ if __name__ == "__main__":
         question = item["question"]
         print(f"[{idx}/{len(qna_pairs)}] Asking model: {question}")
 
-        model_answer = json.loads(ask_model(question))
+        model_answer = (ask_model(question))
         
         print("Model answer:", model_answer)
 
         # Store the model answer
-        item["model_answer"] = model_answer['answer']
-        item["contexts"]
+        item["model_answer"] = model_answer
         updated_qna_pairs.append(item)
 
         # Optional: sleep to avoid hammering the server
